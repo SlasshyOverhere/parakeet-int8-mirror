@@ -1,0 +1,12 @@
+[
+  {
+    "file": "parakeet-v2-int8.tar.gz",
+    "bytes": 473187092,
+    "sha256": "15d522402e9c25e645b681972bc8987b027564a55b69de4eb1c570f6cd9e9fda"
+  },
+  {
+    "file": "parakeet-v3-int8.tar.gz",
+    "bytes": 478510149,
+    "sha256": "43ada556be83c74dda3ba669f0dccf02696460d5e576a6201667108d2d6f7407"
+  }
+]
