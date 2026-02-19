@@ -1,0 +1,11 @@
+Repo:
+https://github.com/SlasshyOverhere/parakeet-int8-mirror
+
+Release:
+https://github.com/SlasshyOverhere/parakeet-int8-mirror/releases/tag/models-parakeet-int8-v1
+
+Direct download URLs:
+https://github.com/SlasshyOverhere/parakeet-int8-mirror/releases/download/models-parakeet-int8-v1/parakeet-v2-int8.tar.gz
+https://github.com/SlasshyOverhere/parakeet-int8-mirror/releases/download/models-parakeet-int8-v1/parakeet-v3-int8.tar.gz
+https://github.com/SlasshyOverhere/parakeet-int8-mirror/releases/download/models-parakeet-int8-v1/checksums.json
+https://github.com/SlasshyOverhere/parakeet-int8-mirror/releases/download/models-parakeet-int8-v1/manifest-files.json
